@@ -25,3 +25,7 @@ behave -f allure_behave.formatter:AllureFormatter -o reports features/login.feat
 ```
 
 ## 구조
+- Page object models 구현
+- BDD 적용
+- allure report
+  
