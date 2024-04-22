@@ -29,4 +29,4 @@ behave -f allure_behave.formatter:AllureFormatter -o reports features/login.feat
 - BDD 적용
 - allure report
   
-![Uploading image.png…]()
+  <img width="2345" alt="image" src="https://github.com/xmlangel/selenium_allure/assets/8622992/48b28213-521e-4fce-8300-c4f4fa33b2c3">
