@@ -29,3 +29,4 @@ behave -f allure_behave.formatter:AllureFormatter -o reports features/login.feat
 - BDD 적용
 - allure report
   
+![Uploading image.png…]()
