@@ -23,3 +23,5 @@ python3 -m venv venv
 source venv/bin/activate
 behave -f allure_behave.formatter:AllureFormatter -o reports features/login.feature 
 ```
+
+## 구조
